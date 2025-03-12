@@ -19,9 +19,9 @@ public class MatrizIdentidad {
 		for (int i=0; i<filas; i++) {
 			for (int j=0; j<columnas; j++) {
 				System.out.print(matriz[i][j] + "   ");
-			} //for
+			}
 			System.out.println();
-		}//for
+		}
 		
 	}//main
 
